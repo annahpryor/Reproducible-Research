@@ -7,7 +7,7 @@ output: html_document
 
 ```{r}
 data = read.csv("activity.csv")
-library(dplyr)
+
 ```
 
 A histogram of the total number of steps taken per day:
